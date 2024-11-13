@@ -8,6 +8,7 @@ class PhotoAlbumsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Test");
 	}
 
 }
